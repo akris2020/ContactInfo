@@ -37,4 +37,4 @@ node server
 
 ## Authors
 
-* **Riju Krishnamurthy** - *Initial work*
+* **Anantharajan Krishnamurthy** - *Initial work*
